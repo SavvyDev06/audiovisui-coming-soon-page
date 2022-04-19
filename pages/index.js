@@ -39,7 +39,7 @@ export default function Home() {
         }}
       >
         <Head>
-          <title>AudioVisui - We're coming soon</title>
+          <title>AudioVisui - We&apos;re coming soon</title>
           <meta name="title" content="AudioVisui - We're coming soon" />
           <meta name="description" content="Make a living from your music." />
 

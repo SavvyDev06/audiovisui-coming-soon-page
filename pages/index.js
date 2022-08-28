@@ -107,7 +107,7 @@ export default function Home() {
             animate={{ y: 0, opacity: 1 }}
             transition={{ ease: [0.42, 0, 0, 1.08], duration: 1, delay: 1.5 }}
           >
-            <Text h2>Finally, a streaming service which respects artsits.</Text>
+            <Text h2>Finally, a streaming service which respects artists.</Text>
           </motion.div>
           <Spacer />
           <motion.div
